@@ -1,5 +1,6 @@
 public class DrawFigures1 {
-    public static void main(String[] args) {
+// Shrek is love, Shrek is life   
+   public static void main(String[] args) {
         System.out.println("   /\\");
         System.out.println("  /  \\");
         System.out.println(" /    \\");
