@@ -4,20 +4,30 @@ public class DrawFigures1 {
         System.out.println("   /\\");
         System.out.println("  /  \\");
         System.out.println(" /    \\");
+}		
+		public static void DownArrow(){
         System.out.println(" \\    /");
         System.out.println("  \\  /");
         System.out.println("   \\/");
         System.out.println();
+}	
+		public static void DownArrow2(){
         System.out.println(" \\    /");
         System.out.println("  \\  /");
         System.out.println("   \\/");
+}	
+		public static void UpArrow(){
         System.out.println("   /\\");
         System.out.println("  /  \\");
         System.out.println(" /    \\");
         System.out.println();
+}	
+		public static void UpArrow2(){
         System.out.println("   /\\");
         System.out.println("  /  \\");
         System.out.println(" /    \\");
+}	
+		public static void Flag(){
         System.out.println("+------+");
         System.out.println("|      |");
         System.out.println("|      |");
@@ -28,8 +38,10 @@ public class DrawFigures1 {
         System.out.println("|      |");
         System.out.println("|      |");
         System.out.println("+------+");
+}
+		public static void UpArrow3(){
         System.out.println("   /\\");
         System.out.println("  /  \\");
         System.out.println(" /    \\");
-    }
 }
+
